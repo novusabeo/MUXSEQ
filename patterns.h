@@ -1,6 +1,6 @@
 
 #include <Arduino.h>
-#include </Users/johnnymorrow/Documents/PlatformIO/Projects/MUXSEQ_Rev1/src/programmer.h>
+#include <programmer.h>
 int delayt = 0;
 
 //Swing integers change these to get different swing rates when that option is selected
