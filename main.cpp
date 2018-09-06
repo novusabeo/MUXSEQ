@@ -4,7 +4,7 @@
 
 
 //Pin Definitions
-//WIll Update soon
+//WIll Update soon  
 
 void setup() {
   DDRB = B00000111;
