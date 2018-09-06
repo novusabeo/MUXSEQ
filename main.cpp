@@ -1,5 +1,5 @@
-#include </Users/johnnymorrow/Documents/PlatformIO/Projects/MUXSEQ_Rev1/src/patterns.h>
-#include </Users/johnnymorrow/Documents/PlatformIO/Projects/MUXSEQ_Rev1/src/eepromfnc.h>
+#include <patterns.h>
+#include <eepromfnc.h>
 #include <Arduino.h>
 
 
